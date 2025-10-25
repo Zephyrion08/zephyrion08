@@ -34,7 +34,7 @@ I enjoy solving real-world problems through code, exploring new technologies, an
 ## 🌐 Connect With Me  
 
 - 📧 **Email:** [sachin.sulu324@gmail.com](mailto:sachin.sulu324@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/sachinsulu](https://linkedin.com/in/sachinsulu)  
+- 💼 **LinkedIn:** [linkedin.com/in/sachinsulu](https://www.linkedin.com/in/sachin-sulu-747354212)  
 
 ---
 
