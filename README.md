@@ -26,7 +26,7 @@ I enjoy solving real-world problems through code, exploring new technologies, an
 
 ## 📈 GitHub Stats
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zephyrion08&show_icons=true&theme=tokyonight&hide_border=true)
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zephyrion08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrion08&layout=compact&theme=tokyonight&hide_border=true)
 
